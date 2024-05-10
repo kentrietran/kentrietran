@@ -5,6 +5,11 @@ My name is Kentrie (pronounced *Ken-tree*)! I was born and raised in Orlando, FL
 ## Academics 🎒
 I'm curently an undergraduate student living in New York City, NY (Manhattan). I'm a senior at Columbia University's School of Engineering and Applied Sciences (SEAS) majoring in Computer Science. Throughout my time at Columbia, I've been mostly involved as an Associate Engineer at the [Columbia Daily Spectator](https://www.columbiaspectator.com/ 'Link to Columbia Daily Spectator website'), as well as a Director of Brand/Digital Strategy in the [Columbia Organization of Rising Entrepreneurs (CORE)](https://www.coreatcu.com/ 'CORE website link'). My main academic/professional interests lie within entrepreneurship, venture capital, design, and software engineering (specifically web, mobile, and front-end development).
 
+## What you might find on my GitHub 👩🏻‍💻
+- Individual/group class projects
+- Work done during my time at the Columbia Daily Spectator
+- Personal projects I do for fun
+
 ## Some relevant classes I've taken 📓
 - Data Structures in Java
 - Introduction to Python
@@ -12,11 +17,6 @@ I'm curently an undergraduate student living in New York City, NY (Manhattan). I
 - User Interface Design
 - Innovation and Design Lab
 - Introduction to Data Visualizations
-
-## What you might find on my GitHub 👩🏻‍💻
-- Individual/group class projects
-- Work done during my time at the Columbia Daily Spectator
-- Personal projects I do for fun
 
 ## Programming languages I'm experienced in 🤓
 - Java
